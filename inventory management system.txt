@@ -1,0 +1,19 @@
+
+Inventory Management System - Java Swing + MySQL
+
+Features:
+- User login and registration
+- Add, update, delete, and view inventory items
+- Search items by name or code
+- Input validation for numeric and required fields
+- Responsive Swing UI
+
+Technologies Used:
+- Java 8
+- MySQL
+- Java Swing for GUI
+
+Setup Instructions:
+1. Install Java 8 and MySQL Server.
+2. Run the SQL script in 'database/inventorydb.sql' to set up the database.
+3. Compile and run the Java source code in the 'src' directory using your IDE or command line.
