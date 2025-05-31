@@ -7,13 +7,12 @@ Features
  3.Inventory Management: Track item name, code, quantity, unit price, and supplier
  4.Search Functionality: Search inventory by name or code
  5.Input Validation: Ensures all required fields are correctly filled
- 6.MVC Architecture: Organized code for scalability and maintainability
- 7.Java Swing GUI: Easy-to-use and responsive desktop interface
- 8.MySQL Integration: Persistent storage using JDBC and prepared statements
+ 6.Java Swing GUI: Easy-to-use and responsive desktop interface
+ 
  
  Technologies Used
 1.Java 8
 2.Java Swing
 3.MySQL
 4.JDBC
-5.MVC Architecture
+
